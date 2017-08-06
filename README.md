@@ -1,2 +1,2 @@
 # Jig-Saw-Puzzle-Game
-Jig-Saw is a 2D point and click puzzle game base on mobile and PC platform
+Jig-Saw is a simple 2D point and click puzzle game based on mobile and PC platform
